@@ -1,0 +1,4 @@
+com\example\serviceclient\controllers\ClientController.class
+com\example\serviceclient\entities\Client.class
+com\example\serviceclient\ServiceClientApplication.class
+com\example\serviceclient\repositories\ClientRepository.class

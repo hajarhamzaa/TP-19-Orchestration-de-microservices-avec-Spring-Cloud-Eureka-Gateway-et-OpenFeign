@@ -1,0 +1,7 @@
+com\example\servicevoiture\controllers\VoitureController.class
+com\example\servicevoiture\services\ClientService.class
+com\example\servicevoiture\repositories\VoitureRepository.class
+com\example\servicevoiture\services\VoitureService.class
+com\example\servicevoiture\entities\Voiture.class
+com\example\servicevoiture\ServiceVoitureApplication.class
+com\example\servicevoiture\entities\Client.class
