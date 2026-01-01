@@ -1,5 +1,9 @@
 # TP 19 - Orchestration de microservices avec Spring Cloud Eureka, Gateway et OpenFeign
 
+<img width="1918" height="893" alt="image" src="https://github.com/user-attachments/assets/15123b43-161a-4ad3-94e1-c7f8eecbb5a8" />
+<img width="1280" height="227" alt="image" src="https://github.com/user-attachments/assets/9aa7f951-45f2-4df0-a8bd-f42fc53b194a" />
+<img width="1918" height="245" alt="image" src="https://github.com/user-attachments/assets/b51cd0ea-338c-4c3d-8665-d079f754025b" />
+
 ## Architecture
 - **Eureka Server** (port 8761) - Service Discovery Registry
 - **SERVICE-CLIENT** (port 8088) - Client microservice with H2 database
